@@ -8,7 +8,7 @@ Join our community and experience seamless features that keep you **ahead of the
 
 ## 🎉 Features
 
-- **Auto Farm**: Automatically teleport to the end and rebirths.
+- **Auto Farm**: Automatically teleport to the end and rebirth.
 - **Tp to leaderboard**: Teleport to the leaderboard.
 - **User-Friendly GUI**: Intuitive interface for seamless operation.
 - **Community Support**: Join our Discord for updates and assistance!
