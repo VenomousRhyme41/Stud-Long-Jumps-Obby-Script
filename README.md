@@ -9,9 +9,11 @@ Join our community and experience seamless features that keep you **ahead of the
 ## 🎉 Features
 
 - **Auto Farm**: Automatically teleport to the end and rebirth.
+- **Pause button**: A pause button (only pauses at the end).
 - **Tp to leaderboard**: Teleport to the leaderboard.
-- **User-Friendly GUI**: Intuitive interface for seamless operation.
-- **Community Support**: Join our Discord for updates and assistance!
+- **Get all items**: Gives you all the items that you would have to pay for.
+- **Hide GUI**: Hides the gui with right ctrl.
+  
 
 Join our community and experience seamless features that keep you **ahead of the competition**. Don't miss out on the ultimate tool to elevate your gaming experience—**now’s the time to conquer every stage**!
 
@@ -26,6 +28,7 @@ To use the script, simply run the following code in Roblox:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VenomousRhyme41/Stud-Long-Jumps-Obby-Script/main/script.lua", true))()
 ```
+**KEY:** morsteam
 
 ----
 
@@ -39,14 +42,9 @@ Join the Discord https://dsc.gg/morsteam
 
 ## 🆕 Updates that might come in the future!
 
--  **Key System**: Makes you join the discord to get a key.
-- **Hide GUI**: Hides the gui with a hit of a button.
-- **Get all items**: Gives you all the items that you would have to pay for.
-- **Fling all**: Flings all the players for free.
-- **Server skip**: Skips a level for everyone on the server.
-- **Fix the pause button**: Fixes the pause button.
 - **Counter**: Shows a counter of how many rebirths you've done in a session.
 - **Chat spammer**: Spams chat with my discord.
+- **Fix the key system**: Fix the key system to make it look better and no workarounds.
 
   *Note: Some of these features might not come. Who knows*
 
