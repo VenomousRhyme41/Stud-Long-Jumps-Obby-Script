@@ -2,7 +2,7 @@
 
 local StrToNumber = tonumber;
 local Byte = string.byte;
-local Char = string.char;
+local Char = string.char; 
 local Sub = string.sub;
 local Subg = string.gsub;
 local Rep = string.rep;
