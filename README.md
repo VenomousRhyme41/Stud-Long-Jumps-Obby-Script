@@ -24,7 +24,7 @@ To use the script, simply run the following code in Roblox:
 ----
 
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VenomousRhyme41/Stud-Long-Jumps-Obby-Script/main/script", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VenomousRhyme41/Stud-Long-Jumps-Obby-Script/main/script.lua", true))()
 ```
 
 ----
