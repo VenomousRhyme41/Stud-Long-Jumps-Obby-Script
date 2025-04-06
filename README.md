@@ -39,6 +39,7 @@ Join the Discord https://dsc.gg/morsteam
 
 ## 🆕 Updates that might come in the future!
 
+-  **Key System**: Makes you join the discord to get a key.
 - **Hide GUI**: Hides the gui with a hit of a button.
 - **Get all items**: Gives you all the items that you would have to pay for.
 - **Fling all**: Flings all the players for free.
